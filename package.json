@@ -1,0 +1,10 @@
+{
+  "name": "meowcoin",
+  "version": "1.0.0",
+  "description": "Naive blockchain data structure",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "sha256": "^0.2.0"
+  }
+}
