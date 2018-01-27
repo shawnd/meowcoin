@@ -1,3 +1,14 @@
+# Meow Coin
+
+A naive implementation of a basic blockchain data structure in JavaScript
+
+## Running the code
+
+`yarn install`
+
+`node index.js`
+
+
 
                                                        .-`       
                                                     `sNMN-       
@@ -18,17 +29,4 @@
            +MMMMMMNmhhmMMMMN-://+osyhhmMMMMMMMhshmNMMMMMh`       
          -yMMMNy/.``  `.yMMN`         `-sNMMMMy  ``.:omMMy       
        :yNMMd+.          sMMs            `oMMMM+      `oMMy      
-    `/dMMh/`              dMN            :hMMm+         oMM:     
-  `dNMmo.                +mMm         /dmMMd+`           oo`     
-   `-.                   .:-          `--.`                      
-  
-
-# Meow Coin
-
-A naive implementation of a basic blockchain data structure in JavaScript
-
-## Running the code
-
-`yarn install`
-
-`node index.js`
+    `/dMMh/`              dMN            :hMMm+         oMM:            
