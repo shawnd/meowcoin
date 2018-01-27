@@ -1,5 +1,5 @@
-var BlockChain = require("./blockchain.js");
-var MerkleTree = require("./merkleTree.js");
+var BlockChain = require("./src/blockchain.js");
+var MerkleTree = require("./src/merkleTree.js");
 
 //Blockchain example
 var bc = new BlockChain();
